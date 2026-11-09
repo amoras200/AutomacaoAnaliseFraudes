@@ -1,0 +1,14 @@
+# Ambiente virtual e cache do Python
+venv/
+.venv/
+__pycache__/
+
+# Relatórios gerados
+relatorios/
+
+# Planilhas reais não devem ir para o repositório
+*.xlsx
+*.xlsm
+*.csv
+# ...exceto a planilha de exemplo (dados fictícios)
+!EXEMPLO_CHARGEBACK_2026.xlsx

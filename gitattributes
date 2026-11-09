@@ -1,0 +1,3 @@
+# Garante que cada launcher use o fim de linha correto em qualquer sistema
+*.bat text eol=crlf
+*.sh  text eol=lf
