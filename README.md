@@ -1,3 +1,7 @@
+# Vídeo Explicativo para Linux
+
+https://drive.google.com/file/d/1j0Y9I00e9wui2bKsZAQKDKdvp6wBflJJ/view?usp=sharing
+
 # Relatório de Chargeback
 
 Lê a planilha de chargebacks em Excel e gera, em segundos, um relatório com:
